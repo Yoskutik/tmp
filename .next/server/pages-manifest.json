@@ -1,0 +1,19 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/blog/search": "pages/api/blog/search.js",
+  "/api/sendMail": "pages/api/sendMail.js",
+  "/blog/[title]": "pages/blog/[title].js",
+  "/blog": "pages/blog.js",
+  "/contacts": "pages/contacts.html",
+  "/extra": "pages/extra.html",
+  "/extra/locations": "pages/extra/locations.js",
+  "/extra/poses": "pages/extra/poses.html",
+  "/extra/studios": "pages/extra/studios.js",
+  "/extra/stylists": "pages/extra/stylists.html",
+  "/": "pages/index.js",
+  "/portfolio": "pages/portfolio.js",
+  "/prices": "pages/prices.html",
+  "/_error": "pages/_error.js"
+}
